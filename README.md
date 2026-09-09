@@ -1,0 +1,3 @@
+## Hi everyone, I'm Swastik Kakran, a 18 y/o programmer...
+
+Blockchain Developer | Backend Engineer | System Designing
